@@ -1,21 +1,12 @@
-// documentreadylol
-//
-// make romanize happen
-//
-// ;
-//
-// [
-//
-// {
-//
-//
-// }
-// ]
-//
-// werk pls
-//
-// i need monay $$$$
-
+/*
+    ROFL:ROFL:ROFL:ROFL
+         ___^___ _
+ L    __/      [] \
+LOL===__           \
+ L      \___ ___ ___]
+          I   I
+        ----------/
+*/
 $(document).ready(function(){
   $("form").submit(function(event){
 
